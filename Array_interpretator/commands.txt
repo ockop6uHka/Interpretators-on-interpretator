@@ -1,0 +1,14 @@
+Load A, in.txt
+Rand B, 10, 1, 100
+Concat A, B
+Free A
+Remove A, 2, 7
+Copy A, 4, 10, b
+Sort A+
+Sort A-
+Shuffle A
+Stats A
+Print A, 3
+Print A, 4, 16
+Print A, all
+Save A, out.txt
